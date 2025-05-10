@@ -3,7 +3,7 @@ Uses the Einhugur I2C library to read and analogue-to-digital chip
 
 The ADS1115 is widely used with sensors to read signals from pressure sensor, light sensors, and temperature sensors. Other uses include industrial automation , Data Acquisition Systems, medical devices, environmental monitoring such as humidity, embedded electronic systems that require high resolution input, robotics, and audio applications for signal processing and sound capture.
 
-![](https://github.com/eugenedakin/lgpio-I2C-ADS1115/blob/main/ADS1115ScreenGrab.png)
+![](https://github.com/eugenedakin/EinhugurI2CADS1115/blob/main/ADS1115ScreenGrab.png)
 
 The lgpio library can be installed Raspberry Pi OS (Oct 2024) and instructions 
 are available at http://abyz.me.uk/lg/download.html
