@@ -13,9 +13,10 @@ Install instructions are:
 3) sudo apt install swig python3-dev
 4) sudo apt install python3-setuptools
 5) sudo apt install libunwind8
-6) create an ADS example program and copy the program and libraries to the RaspberryPi Desktop, and add the Einhugur plugin to the Xojo IDE
-7) give the executable permission to run with something like: 'sudo chmod +x ADS'
-8) run the program with something like: 'sudo ./ADS'
+6) add the Einhugur plugin to the Xojo IDE and create an ADS example program
+7) copy the program and libraries to the RaspberryPi Desktop
+8) give the executable permission to run with something like: 'sudo chmod +x ADS'
+9) run the program with something like: 'sudo ./ADS'
 
 ![](https://github.com/eugenedakin/EinhugurI2CADS1115/blob/main/ADS1115Rev1Breadboard.png)
 
